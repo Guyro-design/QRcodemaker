@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color:dodgerblue;
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 96vh;
+}
+
+h1{
+    background-color: aliceblue;
+}
+
+form{
+    background-color: gray;
+    border: 5px solid red;
+    border: 5px;
+    border-radius: 10px;
+    width: 14%;
+    margin-left: 600px;
+    padding: 20px;
+    padding-top: 5px;
+}
+
+input{
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button{
+    background-color: orange;
+    cursor: pointer;
+    padding: 5px;
+    border-radius:5px;
+}
